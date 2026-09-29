@@ -1,16 +1,16 @@
-# 👋 안녕하세요, 백엔드 개발자 임재승입니다.
+# 안녕하세요, 백엔드 개발자 임재승입니다.
 
 창업을 통해 사용자에게 가치를 전달하며 성취감을 느끼고, 호기심을 바탕으로 새로운 기술을 스스로 학습하여 개발 프로세스를 정립하는 것을 좋아하는 개발자입니다 . 
 스타트업 환경에서의 빠른 개발과 피드백을 즐기면서도, 시스템의 유지보수와 확장성에 대해 끊임없이 고민하며 성장하고 있습니다 .
 
-## 🎓 Education
+## Education
 - **가천대학교 AI·소프트웨어학부 졸업**
 
-## 🛠 Skills
+## Skills
 - **Main Stack**: JAVA, Kotlin, Spring Boot, JPA, Redis, WebSocket, Docker, AWS (EC2, RDS, S3, EKS), MariaDB, Kafka, Kubernetes
 - **Sub / Experience**: Rust, TypeScript, React, NextJS, Python, Android, IOS, Swift, Flutter 
 
-## 💻 Work Experience & Projects
+## Work Experience & Projects
 
 ### 이커머스 플랫폼 개발
 - **이커머스 쇼핑몰 APP/백엔드 개발**
@@ -35,8 +35,6 @@
   - Swift를 활용하여 iOS 앱 기획부터 개발, AppStore 출시 전 과정을 경험했습니다.
   - Coordinator Pattern 적용 및 Kingfisher, Alamofire 등을 활용하여 이미지 캐싱과 네트워크 처리를 최적화했습니다.
 
-### 🚀 Personal Projects
+### Personal Projects
 - **OpenCV 기반 메이크업 어플**: Python, C#, Unity를 활용해 카메라 얼굴 인식 및 3D 마스크/메이크업 필터를 구현했습니다.
 - **로블록스 난투 액션 게임**: Lua를 활용하여 로블록스 플랫폼 내 게임 전투 로직 및 캐릭터 애니메이션을 개발했습니다.
-
-### 🚀 Personal Projects
